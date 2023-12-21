@@ -1,0 +1,121 @@
+  {
+      "navigation": {
+        "home": "Home",
+        "about": "About",
+        "blog": "Blog",
+        "faq": "FAQs",
+        "donate": "Donate",
+        "login": "Login",
+        "contact" : "Contact"
+      },
+      "banner": {
+      "heroHeadButton": "new",
+      "heroHeadTitle": "donation is out! donate now",
+      "bigTitle": "Unite for a",
+      "bigTitleSpan": " Mindful Tomorrow",
+      "subTitle": "Supporting Minds, One Memory at a Time",
+      "content": "NEURO UNITED's mission is to address neuroinflammatory diseases comprehensively, emphasizing research, innovation, prevention, and screening.",
+      "button": "Donate now",
+      "smallTitleUnderButton": "By making a donation, you are not only saving lives..."
+      },
+      "missions":{
+        "titlefirstTitle":"Our",
+        "titlespanFirstTitle":" Mission",
+        "missionscontentn1":"INTERNATIONAL NEUROLOGIC DISEASE ASSOCIATION's mission: Pioneering responsible technologies to advance the understanding and treatment of neurological diseases.",
+        "missionscontentn2":"It involves developing innovative and ethical approaches within the field of neurology, aiming to pioneer responsible and effective technologies that aid in diagnosing, treating, and managing neurological conditions.",
+        "missionscontentn3":"This could encompass various areas, such as using advancements in neuroimaging, artificial intelligence, or other technologies to improve patient care, research, and outcomes in the realm of neurological diseases.",
+        "missionscontentn4":"",
+        "mission1title":"Commitment to Innovation",
+        "mission1content":"At Neuro Heath, we're committed to innovative, drug-free approaches rooted in physical sciences. Our focus: neuroinflammatory diseases like Alzheimer's, MS, Parkinson's, ALS, and brain concussions.",
+        "mission2title":"Expertise Across Disciplines",
+        "mission2content":"Our team includes doctors, scientists, and engineers from diverse fields. Guided by a renowned advisory board, we collaborate to pioneer solutions for neuro health challenges.",
+        "mission3title":"Personalized Service",
+        "mission3content":"The INTERNATIONAL NEUROLOGIC DISEASE ASSOCIATION prioritizes warm, personable service while pioneering responsible technologies for neurological diseases, showcasing a holistic care approach that considers brain and gut areas for comprehensive support."
+      },
+      "donators":{
+        "donatorsTitle":"Top ",
+        "donatorsTitlespan":"Donators",
+        "donatorsTitlecontent":"Thanking Our Valued Benefactors",
+        "viewallbutton":"View all"
+      },
+      "blogList":{
+        "blogListTitleOne":"Recent",
+        "blogListTitleTwo":"blog posts",
+        "blogListTitlecontent":"Here's what we've been up to recently.",
+        "blogListbutton":"View all",
+        "blogListbuttoncontent":"Read more"
+      },
+      "goals": {
+        "goalsfirstTitle":"Our",
+        "goalsspanFirstTitle":" Popular Goals",
+        "goalssubTitle": "Goals That Inspire Change",
+        "goalCardtitle":"Scientific Research on Neuro-Inflammations",
+        "goalCardcontent":"At Neuro Association, we are dedicated to making a profound difference in the lives.",
+        "goalCardbutton":"Donate now"
+      },
+      "faq": {
+        "faqfirstTitle":"Donation",
+        "faqspanFirstTitle":" FAQs",
+        "faqsubTitle": "Comprehensive Donation Queries Answered Here",
+        "faqquestion1":"What does my donation support?",
+        "faqquestion2":"How can I make a donation?",
+        "faqquestion3":"Is my donation tax-deductible?",
+        "faqquestion4":"Can I make a one-time donation or set up a recurring donation?",
+        "faqquestion5":"Will I receive a confirmation of my donation?",
+        "faqanswer1":"Your generous donation directly supports research, care, and support services for individuals and families affected by Alzheimer's disease. It funds critical programs aimed at finding a cure and providing assistance to those in need.",
+        "faqanswer2":"Making a donation is easy. Simply visit our dedicated donation page and choose the amount you'd like to contribute. You can securely complete the transaction online using a credit, debit card. We also offer alternative methods like bank transfers or checks. Your contribution is greatly appreciated.",
+        "faqanswer3":"Yes, your donation is tax-deductible. We are a registered non-profit organization, and you will receive a receipt for your donation. This receipt can be used for tax purposes. Please consult with your tax advisor for specific details related to your individual situation. Remember to integrate these questions and answers into your website's accordion feature to provide clear and accessible information for potential donors.",
+        "faqanswer4":"Yes, you have the option to make a one-time donation or set up a recurring donation. A one-time donation is a single contribution, while a recurring donation allows you to make regular contributions on a schedule that works for you. Both options provide vital support in the fight against Alzheimer's.",
+        "faqanswer5":"Absolutely. Once your donation is processed, you will receive a confirmation email with a receipt for your records. This confirmation will include details of your contribution, such as the amount, date, and a thank you message for your generous support."
+      },
+      "contact":{
+        "contactTitle":"Contact",
+        "contactspanTitle":" Us",
+        "contactsubTitle": "Welcome! If you have more questions about donation,",
+        "contactsubTitleOne":"we are here to help, call us now!",
+        "contactsubTitleTwo":"Reach out to us .",
+        "contactsubTitleThree":"We look forward to connecting with you!",
+        "contactCall":"+4144124-5689",
+        "contactFormName":"Full Name",
+        "contactFormEmail":"email",
+        "contactFormMessage":"Message",
+        "contactFormButton":"Send"
+      },
+      "footer":{
+        "section1title":"Alzheimer's",
+        "section1sub_section1":"About Alzheimer's",
+        "section1sub_section2":"Research",
+        "section1sub_section3":"Support Programs",
+        "section1sub_section4":"Get Involved",
+        "section2title":"Neural Health",
+        "section2sub_section1":"Neural Disorders",
+        "section2sub_section2":"Neural Research",
+        "section2sub_section3":"Support Initiatives",
+        "section2sub_section4":"Join the cause",
+        "section3title":"About Us",
+        "section3sub_section1":"Our Mission",
+        "section3sub_section2":"Team",
+        "section3sub_section3":"Impact",
+        "section3sub_section4":"Contact Us",
+        "copyrights":"All Rights Reserved. | Coded and Designed by Laedx"
+    },
+    "donationPage":{
+      "donationPageTitle":"Donation",
+      "donationPagespanTitle":" Page",
+      "donationPageSlogan":"Donate Now",
+      "donationPagesubTitle": "ENTER YOUR INFORMATION TO DONATE",
+      "donationPageFormName":"Full Name",
+      "donationPageFormEmail":"Email Address",
+      "donationPageFormAmount":"Quick Amounts",
+      "donationPageFormAmountOne":"Another Amount",
+      "donationPageButton":"Donate with Stripe",
+      "donationPageButtonOne":"Donate with Paypal"
+    },
+    "BlogPL":{
+      "BlogPLTitle":"Neurolo Blog List",
+      "BlogPLTitleOne":"DISCOVER",
+      "BlogPLTitleTwo":"OUR",
+      "BlogPLTitleThree":"BLOG",
+      "BlogPLSlogan":"LIKE, SHARE AND SUBSCRIBE FOR MORE CONTENT!"
+    }
+  }

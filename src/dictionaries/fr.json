@@ -1,0 +1,124 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "donate": "Faire un don",
+    "login": "Se connecter",
+    "contact" : "Contact"
+  },
+  "banner": {
+      "heroHeadButton": "nouveau",
+      "heroHeadTitle": "La collecte de fonds est en cours ! Faites un don maintenant",
+      "bigTitle": "Unis pour un",
+      "bigTitleSpan": " Avenir Conscient",
+      "subTitle": "Soutenir les esprits, un souvenir à la fois",
+      "content": "La mission de NEURO UNITED est de s'attaquer de manière globale aux maladies neuroinflammatoires, en mettant l'accent sur la recherche, l'innovation, la prévention et le dépistage.",
+      "button": "Faire un don maintenant",
+      "smallTitleUnderButton": "En faisant un don, vous ne sauvez pas seulement des vies..."
+  },
+  "missions": {
+    "titlefirstTitle": "Notre",
+    "titlespanFirstTitle": " Mission",
+    "missionscontentn1": "La mission de INTERNATIONAL NEUROLOGIC DISEASE ASSOCIATION : Pionnier des technologies responsables pour les maladies neuro-inflammatoires",
+    "missionscontentn2": "Il s'agit de développer des approches innovantes et éthiques dans le domaine de la neurologie, afin de mettre au point des technologies responsables et efficaces qui aident à diagnostiquer, traiter et gérer les maladies neurologiques.",
+    "missionscontentn3": "Cela peut englober différents domaines, tels que l'utilisation des progrès de la neuroimagerie, de l'intelligence artificielle ou d'autres technologies pour améliorer les soins aux patients, la recherche et les résultats dans le domaine des maladies neurologiques.",
+    "missionscontentn4": "",
+    "mission1title": "Engagement envers l'Innovation",
+    "mission1content": "Chez Neuro Heath, nous nous engageons à des approches innovantes et sans médicaments ancrées dans les sciences physiques. Notre priorité : les maladies neuro-inflammatoires telles que la maladie d'Alzheimer, la sclérose en plaques, la maladie de Parkinson, la SLA et les commotions cérébrales.",
+    "mission2title": "Expertise Interdisciplinaire",
+    "mission2content": "Notre équipe comprend des médecins, des scientifiques et des ingénieurs de divers domaines. Sous la direction d'un conseil consultatif de renom, nous collaborons pour pionner des solutions aux défis de la santé neurologique.",
+    "mission3title": "Service Personnalisé",
+    "mission3content": "L'INTERNATIONAL NEUROLOGIC DISEASE ASSOCIATION privilégie un service chaleureux et personnalisé tout en étant pionnière en matière de technologies responsables pour les maladies neurologiques, en présentant une approche de soins holistique qui prend en compte les zones du cerveau et de l'intestin pour un soutien complet."
+  },
+
+  "donators": {
+      "donatorsTitle": "Meilleurs ",
+      "donatorsTitlespan": "Donateurs",
+      "donatorsTitlecontent": "Remercier Nos Bénéficiaires Valorisés",
+      "viewallbutton":"Voir tout"
+  },
+  "blogList": {
+    "blogListTitleOne": "Récentes",
+    "blogListTitleTwo": "publications de blog",
+    "blogListTitlecontent": "Voici ce que nous avons fait récemment.",
+    "blogListbutton": "Voir tout",
+    "blogListbuttoncontent": "Lire la suite"
+  },
+ 
+  "goals": {
+    "goalsfirstTitle": "Nos",
+    "goalsspanFirstTitle": " Objectifs Populaires",
+    "goalssubTitle": "Des Objectifs Qui Inspirent le Changement",
+    "goalCardtitle": "Recherche Scientifique sur les Neuro-Inflammations",
+    "goalCardcontent": "À l'Association Neuro, nous nous engageons à faire une différence profonde dans la vie des gens.",
+    "goalCardbutton": "Faire un don maintenant"
+  },
+  "faq": {
+    "faqfirstTitle": "Donation",
+    "faqspanFirstTitle": " FAQs",
+    "faqsubTitle": "Réponses Complètes aux Questions sur les Dons",
+    "faqquestion1": "Que soutient ma donation ?",
+    "faqquestion2": "Comment puis-je faire un don ?",
+    "faqquestion3": "Ma donation est-elle déductible d'impôt ?",
+    "faqquestion4": "Puis-je faire un don ponctuel ou mettre en place un don récurrent ?",
+    "faqquestion5": "Vais-je recevoir une confirmation de ma donation ?",
+    "faqanswer1": "Votre généreuse donation soutient directement la recherche, les soins et les services de soutien pour les personnes et les familles touchées par la maladie d'Alzheimer. Elle finance des programmes essentiels visant à trouver un remède et à fournir de l'aide à ceux dans le besoin.",
+    "faqanswer2": "Faire un don est facile. Rendez-vous simplement sur notre page de don dédiée et choisissez le montant que vous souhaitez contribuer. Vous pouvez effectuer la transaction en toute sécurité en ligne à l'aide d'une carte de crédit ou de débit. Nous proposons également d'autres méthodes comme les virements bancaires ou les chèques. Votre contribution est grandement appréciée.",
+    "faqanswer3": "Oui, votre don est déductible d'impôt. Nous sommes une organisation à but non lucratif enregistrée, et vous recevrez un reçu pour votre don. Ce reçu peut être utilisé à des fins fiscales. Veuillez consulter votre conseiller fiscal pour des détails spécifiques liés à votre situation individuelle.",
+    "faqanswer4": "Oui, vous avez la possibilité de faire un don ponctuel ou de mettre en place un don récurrent. Un don ponctuel est une contribution unique, tandis qu'un don récurrent vous permet de faire des contributions régulières selon un calendrier qui vous convient. Les deux options fournissent un soutien essentiel dans la lutte contre la maladie d'Alzheimer.",
+    "faqanswer5": "Absolument. Une fois que votre don est traité, vous recevrez un e-mail de confirmation avec un reçu pour vos dossiers. Cette confirmation inclura les détails de votre contribution, tels que le montant, la date et un message de remerciement pour votre généreux soutien."
+  },
+  "contact": {
+    "contactTitle": "Contact",
+    "contactspanTitle": "ez-nous",
+    "contactsubTitle": "Bienvenue ! Si vous avez d'autres questions sur le don,",
+    "contactsubTitleOne": "nous sommes là pour vous aider, appelez-nous maintenant!",
+    "contactsubTitleTwo": "Contactez-nous.",
+    "contactsubTitleThree": "Nous avons hâte de communiquer avec vous !",
+    "contactCall": "Appeler maintenant",
+    "contactFormName": "Nom complet",
+    "contactFormEmail": "E-mail",
+    "contactFormMessage": "Message",
+    "contactFormButton": "Envoyer"
+  },
+  "footer": {
+    "section1title": "Maladie d'Alzheimer",
+    "section1sub_section1": "À propos de la Maladie d'Alzheimer",
+    "section1sub_section2": "Recherche",
+    "section1sub_section3": "Programmes de Soutien",
+    "section1sub_section4": "S'impliquer",
+    "section2title": "Santé Neurologique",
+    "section2sub_section1": "Troubles Neurologiques",
+    "section2sub_section2": "Recherche Neurologique",
+    "section2sub_section3": "Initiatives de Soutien",
+    "section2sub_section4": "Rejoignez la cause",
+    "section3title": "À Propos de Nous",
+    "section3sub_section1": "Notre Mission",
+    "section3sub_section2": "Équipe",
+    "section3sub_section3": "Impact",
+    "section3sub_section4": "Contactez-nous",
+    "copyrights": "Tous droits réservés. | Codé et Conçu par Laedx"
+  },
+  "donationPage": {
+    "donationPageTitle": "Donation",
+    "donationPagespanTitle": " Page",
+    "donationPageSlogan": "Faire un don maintenant",
+    "donationPagesubTitle": "SAISISSEZ VOS INFORMATIONS POUR FAIRE UN DON",
+    "donationPageFormName": "Nom complet",
+    "donationPageFormEmail": "Adresse e-mail",
+    "donationPageFormAmount": "Montants rapides",
+    "donationPageFormAmountOne": "Autre montant",
+    "donationPageButton": "Faire un don avec Stripe",
+    "donationPageButtonOne": "Faire un don avec Paypal"
+  },
+  "BlogPL": {
+    "BlogPLTitle": "Liste de blogs sur la neurologie",
+    "BlogPLTitleOne": "DÉCOUVREZ",
+    "BlogPLTitleTwo": "NOTRE",
+    "BlogPLTitleThree": "BLOG",
+    "BlogPLSlogan": "Aimez, partagez et abonnez-vous pour plus de contenu !"
+  }
+
+}

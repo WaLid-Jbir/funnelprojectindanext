@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 570.1 305.5" style="enable-background:new 0 0 570.1 305.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000163774046381817002890000002607845325888921993_);}
+	.st1{fill:none;stroke:#3B384B;stroke-width:1.37;stroke-miterlimit:10;}
+	.st2{fill:#874EFF;}
+	.st3{fill:#FF6337;}
+</style>
+<g id="Layer_2_00000114060617433453471810000004266769742454179470_">
+	<g id="Layer_1-2">
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M70.6,0.6h429.1l0,0v181.9c0,55.2-44.8,100-100,100H70.6l0,0V0.6L70.6,0.6z"/>
+			</defs>
+			<clipPath id="SVGID_00000016760804090976663590000008627277072673728906_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_00000016760804090976663590000008627277072673728906_);">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="3612" height="5411" xlink:href="pexels-pavel-danilyuk-8057029.jpg"  transform="matrix(0.1258 0 0 0.1258 58.9406 -133.9737)">
+				</image>
+			</g>
+		</g>
+		<circle class="st1" cx="35.3" cy="113.7" r="6.9"/>
+		<circle class="st1" cx="35.3" cy="149.6" r="6.9"/>
+		<circle class="st1" cx="35.3" cy="185.6" r="6.9"/>
+		<circle class="st1" cx="35.3" cy="221.5" r="6.9"/>
+		
+			<ellipse transform="matrix(1 -4.132121e-03 4.132121e-03 1 -0.5754 3.238650e-02)" class="st1" cx="7.6" cy="139.3" rx="6.9" ry="6.9"/>
+		
+			<ellipse transform="matrix(1 -4.132121e-03 4.132121e-03 1 -0.7239 3.269324e-02)" class="st1" cx="7.6" cy="175.2" rx="6.9" ry="6.9"/>
+		
+			<ellipse transform="matrix(1 -4.132121e-03 4.132121e-03 1 -0.8724 3.299998e-02)" class="st1" cx="7.6" cy="211.1" rx="6.9" ry="6.9"/>
+		
+			<ellipse transform="matrix(1 -4.132121e-03 4.132121e-03 1 -1.0208 3.330673e-02)" class="st1" cx="7.6" cy="247.1" rx="6.9" ry="6.9"/>
+		<circle class="st1" cx="500.1" cy="249" r="6.9"/>
+		<path class="st1" d="M536.1,242.2c3.8,0,6.9,3.1,6.9,6.9c0,3.8-3.1,6.9-6.9,6.9s-6.9-3.1-6.9-6.9c0,0,0,0,0,0
+			C529.2,245.3,532.3,242.2,536.1,242.2z"/>
+		<path class="st1" d="M501.1,278.2c3.8,0,6.9,3.1,6.9,6.9s-3.1,6.9-6.9,6.9s-6.9-3.1-6.9-6.9v0
+			C494.2,281.3,497.3,278.2,501.1,278.2z"/>
+		<path class="st1" d="M537,278.2c3.8,0,6.9,3.1,6.9,6.9c0,3.8-3.1,6.9-6.9,6.9c-3.8,0-6.9-3.1-6.9-6.9v0
+			C530.1,281.3,533.2,278.2,537,278.2z"/>
+		<rect x="465.1" y="92.2" class="st2" width="35" height="35"/>
+		<rect x="500.1" y="57.2" class="st2" width="35" height="35"/>
+		<rect x="535.1" y="22.2" class="st2" width="35" height="35"/>
+		<path class="st3" d="M244.3,305.5c0-36.6,29.7-66.3,66.3-66.3c36.6,0,66.3,29.7,66.3,66.3H244.3z"/>
+	</g>
+</g>
+</svg>

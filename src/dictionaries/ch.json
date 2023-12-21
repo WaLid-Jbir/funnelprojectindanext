@@ -1,0 +1,122 @@
+{
+    "navigation": {
+        "home": "主页",
+        "about": "关于",
+        "blog": "博客",
+        "faq": "常见问题",
+        "donate": "捐赠",
+        "login": "登录",
+        "contact" : "联系人"
+    },
+    "banner": {
+        "heroHeadButton": "新的",
+        "heroHeadTitle": "捐赠现已开始！立即捐赠",
+        "bigTitle": "团结一致，迎接",
+        "bigTitleSpan": " 有意义的明天",
+        "subTitle": "支持心智，每时每刻",
+        "content": "NEURO UNITED的使命是全面解决神经炎症性疾病问题，重点是研究、创新、预防和筛查。",
+        "button": "立即捐赠",
+        "smallTitleUnderButton": "通过捐赠，您不仅是在拯救生命..."
+    },
+    "missions": {
+        "titlefirstTitle": "我们的",
+        "titlespanFirstTitle": " 使命",
+        "missionscontentn1": "INTERNATIONAL NEUROLOGIC DISEASE ASSOCIATION 的使命：开创负责任的神经炎症性疾病技术",
+        "missionscontentn2": "它涉及在神经病学领域开发创新和符合道德规范的方法，旨在开创负责任和有效的技术，帮助诊断、治疗和管理神经病。",
+        "missionscontentn3": "这可能包括多个领域，如利用神经成像、人工智能或其他技术的进步来改善神经疾病领域的患者护理、研究和成果。",
+        "missionscontentn4": "",
+        "mission1title": "致力于创新",
+        "mission1content": "在神经健康领域，我们致力于创新的、无药物的方法，基于自然科学。我们的重点是神经炎症性疾病，如阿尔茨海默病、多发性硬化、帕金森病、肌萎缩性侧索硬化和脑震荡。",
+        "mission2title": "跨学科专业知识",
+        "mission2content": "我们的团队包括来自不同领域的医生、科学家和工程师。在卓越的顾问委员会的指导下，我们合作开创神经健康挑战的解决方案。",
+        "mission3title": "个性化服务",
+        "mission3content": "国际神经疾病协会（INTERNATIONAL-NEUROLOGIC-DISEASE-ASSOCIATION）将热情、人性化的服务放在首位，同时开创了负责任的神经疾病技术，展示了一种考虑大脑和肠道的整体护理方法，以提供全面支持。"
+    },
+    "donators": {
+        "donatorsTitle": "顶级 ",
+        "donatorsTitlespan": "捐赠者",
+        "donatorsTitlecontent": "感谢我们宝贵的捐赠者"
+    },
+    "blogList": {
+        "blogListTitleOne": "最近的",
+        "blogListTitleTwo": "博客文章",
+        "blogListTitlecontent": "这是我们最近在忙些什么。",
+        "blogListbutton": "查看全部",
+        "blogListbuttoncontent": "阅读更多"
+      },
+      
+    "goals": {
+        "goalsfirstTitle": "我们的",
+        "goalsspanFirstTitle": " 热门目标",
+        "goalssubTitle": "激发改变的目标",
+        "goalCardtitle": "神经炎症研究",
+        "goalCardcontent": "在神经协会，我们致力于在人们的生活中产生深远的改变。",
+        "goalCardbutton": "立即捐赠"
+    },
+    "faq": {
+        "faqfirstTitle": "捐赠",
+        "faqspanFirstTitle": " 常见问题",
+        "faqsubTitle": "在这里解答全面的捐赠问题",
+        "faqquestion1": "我的捐赠支持什么？",
+        "faqquestion2": "如何进行捐赠？",
+        "faqquestion3": "我的捐赠可以减免税吗？",
+        "faqquestion4": "我可以进行一次性捐赠或设置定期捐赠吗？",
+        "faqquestion5": "我会收到我的捐赠的确认吗？",
+        "faqanswer1": "您慷慨的捐赠直接支持受到阿尔茨海默病影响的个人和家庭的研究、护理和支持服务。它资助了旨在找到治愈方法并为有需要的人提供帮助的重要项目。",
+        "faqanswer2": "进行捐赠非常简单。只需访问我们专用的捐赠页面，选择您想捐赠的金额。您可以使用信用卡、借记卡在线安全完成交易。我们还提供银行转账或支票等其他支付方式。您的捐赠将受到高度赞赏。",
+        "faqanswer3": "是的，您的捐赠是可以减免税的。我们是一家注册的非营利组织，您将收到捐赠收据。这张收据可以用于税收目的。请咨询您的税务顾问，以获取有关您个人情况的具体细节。请记住将这些问题和答案集成到您的网站手风琴功能中，以为潜在捐赠者提供明确和易于访问的信息。",
+        "faqanswer4": "是的，您可以选择进行一次性捐赠或设置定期捐赠。一次性捐赠是单笔捐款，而定期捐赠允许您按照适合您的时间表进行定期捐款。这两种选择都为抗击阿尔茨海默病提供了重要的支持。",
+        "faqanswer5": "当您的捐赠处理后，您将收到一封确认电子邮件，附有您的记录收据。此确认将包括有关您的捐赠的详细信息，如金额、日期以及感谢您慷慨支持的消息。"
+    },
+    "contact": {
+        "contactTitle": "联系",
+        "contactspanTitle": "我们",
+        "contactsubTitle": "欢迎您 如果您有更多关于捐赠的问题、",
+        "contactsubTitleOne": "我们将竭诚为您服务，请立即致电我们！",
+        "contactsubTitleTwo": "与我们联系。",
+        "contactsubTitleThree": "期待与您沟通交流！",
+        "contactCall": "立即致电",
+        "contactFormName": "全名",
+        "contactFormEmail": "电子邮件",
+        "contactFormMessage": "信息",
+        "contactFormButton": "发送"
+      },
+    "footer": {
+        "section1title": "阿尔茨海默病",
+        "section1sub_section1": "关于阿尔茨海默病",
+        "section1sub_section2": "研究",
+        "section1sub_section3": "支持计划",
+        "section1sub_section4": "参与进来",
+        "section2title": "神经健康",
+        "section2sub_section1": "神经疾病",
+        "section2sub_section2": "神经研究",
+        "section2sub_section3": "支持计划",
+        "section2sub_section4": "加入我们的事业",
+        "section3title": "关于我们",
+        "section3sub_section1": "我们的使命",
+        "section3sub_section2": "团队",
+        "section3sub_section3": "影响",
+        "section3sub_section4": "联系我们",
+        "copyrights": "保留所有权利。| 由  Laedx 编码和设计"
+    },
+    "donationPage": {
+        "donationPageTitle": "捐款",
+        "donationPagespanTitle": "页面",
+        "donationPageSlogan": "立即捐款",
+        "donationPagesubTitle": "输入您的信息以进行捐款",
+        "donationPageFormName": "全名",
+        "donationPageFormEmail": "电子邮件地址",
+        "donationPageFormAmount": "快速金额",
+        "donationPageFormAmountOne": "其他金额",
+        "donationPageButton": "使用Stripe捐款",
+        "donationPageButtonOne": "使用Paypal捐款"
+      },
+      "BlogPL": {
+        "BlogPLTitle": "神经科学博客列表",
+        "BlogPLTitleOne": "发现",
+        "BlogPLTitleTwo": "我们的",
+        "BlogPLTitleThree": "博客",
+        "BlogPLSlogan": "点赞、分享和订阅以获取更多内容！"
+      }
+}
+
